@@ -3,6 +3,10 @@ SFTP-To-Go
 
 **SFTP To Go:** https://sftptogo.com/
 
+**Free Trial:** https://sftptogo.com/pricing
+
+<img width="1536" height="1024" alt="SFTP To Go_1" src="https://github.com/user-attachments/assets/f20056af-39bd-40c4-a820-da921a5a9c05" />
+
 **SFTP To Go** is a simple and secure cloud storage service. It lets you upload, download, and manage files using common protocols like SFTP, FTPS, Amazon S3, and HTTPS. You don’t need to set up or maintain any servers. Everything runs on AWS, so it’s fast, reliable, and 
 
 scales automatically.
@@ -17,7 +21,7 @@ If you ever need help, their support team is available through the chat option o
 
 **SFTP (SSH File Transfer Protocol)** is a secure file transfer protocol that runs over SSH.
 
-Think of it as file transfer built into SSH. If you can SSH into a server, you can usually use SFTP.
+Think of it as a file transfer built into SSH. If you can SSH into a server, you can usually use SFTP.
 
 **Key points:**
 
@@ -25,7 +29,7 @@ Uses SSH (port 22)
 
 Encrypts everything: authentication, commands, and data
 
-Uses one single connection
+Uses a single connection
 
 Authenticates using SSH keys or passwords
 
